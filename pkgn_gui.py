@@ -1,3 +1,4 @@
+#This is the final product for an interactive troubleshooting guide
 import easygui
 
 version = "Packaging TS Guide"
